@@ -3,7 +3,7 @@ public:
     int majorityElement(vector<int>& a) {
         map<int,int>mpp;
         int n=a.size();
-
+        
         for(int i=0; i<n; i++){
             mpp[a[i]]++;
         }
@@ -14,6 +14,5 @@ public:
             }
         }
         return -1;
-        
     }
 };
