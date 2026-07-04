@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
@@ -15,7 +14,6 @@ public:
         if(index==-1){
             reverse(nums.begin(), nums.end());
             return;
-
         }
 
         for(int i=n-1; i>=0; i--){
@@ -24,8 +22,9 @@ public:
                 break;
             }
         }
-        reverse(nums.begin()+index+1, nums.end());
 
+        reverse(nums.begin()+index+1, nums.end());
+        return;
 
     }
 };
