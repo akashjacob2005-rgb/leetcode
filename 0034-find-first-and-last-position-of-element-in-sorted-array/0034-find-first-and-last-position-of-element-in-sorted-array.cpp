@@ -2,8 +2,8 @@ class Solution {
 public:
     int lowerbound(vector<int>&nums, int target){
         int n=nums.size();
-        int low=0;int high=n-1;
         int ans=n;
+        int low=0;int high=n-1;
         while(low<=high){
             int mid=(low+high)/2;
             if(nums[mid]>=target){
@@ -15,11 +15,13 @@ public:
             }
         }
         return ans;
+
     }
     int upperbound(vector<int>&nums, int target){
         int n=nums.size();
-        int low=0;int high=n-1;
+        int low=0; int high=n-1;
         int ans=n;
+
         while(low<=high){
             int mid=(low+high)/2;
             if(nums[mid]>target){
@@ -31,16 +33,19 @@ public:
             }
         }
         return ans;
+
     }
+
+
     vector<int> searchRange(vector<int>& nums, int target) {
         int n=nums.size();
-        int lb = lowerbound(nums, target);
-        int ub = upperbound(nums,target);
+        int lb= lowerbound(nums, target);
+        int ub=upperbound(nums,target);
 
-        if(lb==n || nums[lb] != target){
-            return {-1,-1};
+        if(lb==n || nums[lb]!=target){
+            return{-1,-1};
         }
-        return{lb,ub-1};
+        return {lb,ub-1};
         
     }
 };
