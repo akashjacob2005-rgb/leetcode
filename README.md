@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
