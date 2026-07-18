@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
