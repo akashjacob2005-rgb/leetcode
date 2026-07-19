@@ -4,11 +4,12 @@ public:
 
         int x = start^goal;
         int cnt=0;
-        while(x){
-            x=x&(x-1);
+
+        while(x!=0){
+            x = (x&(x-1));
             cnt++;
         }
-
         return cnt;
+        
     }
 };
