@@ -1,29 +1,26 @@
 class Solution {
 public:
-    int trap(vector<int>& height) {
-        int n=height.size();
-        int left=0, lm=0, rm=0, water=0;
+    int trap(vector<int>& h) {
+        int n=h.size();
+        int left=0, lm=0,rm=0,w=0;
         int right=n-1;
 
         while(left<right){
-            if(height[left]<=height[right]){
-                if(height[left]>=lm)
-                 lm=height[left];
+            if(h[left]<=h[right]){
+                if(h[left]>=lm)
+                 lm=h[left];
                 else
-                 water+=lm-height[left];
+                 w+=lm-h[left];
                 left++;
             }
             else{
-                if(height[right]>=rm)
-                 rm=height[right];
+                if(h[right]>=rm)
+                 rm=h[right];
                 else
-                 water+=rm-height[right];
+                 w+=rm-h[right];
                 right--;
             }
         }
-        return water;
-
-
-        
+        return w;
     }
 };
