@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
