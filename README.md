@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0402-remove-k-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
