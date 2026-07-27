@@ -1,7 +1,6 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-
         string st;
 
         for(int digit:num){
@@ -21,12 +20,10 @@ public:
         while(i<st.size() && st[i]=='0')
          i++;
         
-        st=st.substr(i);
+        st = st.substr(i);
 
-        return st.empty()? "0" :st;
-
-      
-        
+        return st.empty()? "0" : st;
+         
         
     }
 };
