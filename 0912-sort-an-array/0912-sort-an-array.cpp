@@ -34,7 +34,7 @@ public:
         if(low>=high)
          return;
         
-        int mid=(low+high)/2;
+        int mid= low+ (high-low)/2;
         
         mergesort(nums, low, mid);
         mergesort(nums, mid+1, high);
