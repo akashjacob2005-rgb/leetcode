@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0735-asteroid-collision) |
+| [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1929-concatenation-of-array) |
@@ -120,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -252,4 +256,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
