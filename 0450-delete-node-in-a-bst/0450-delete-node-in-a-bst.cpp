@@ -12,7 +12,6 @@
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-
         if(root==NULL)
          return NULL;
         
@@ -41,9 +40,7 @@ public:
                 root->val = temp->val;
                 root->right = deleteNode(root->right, temp->val);
             }
-            
         }
         return root;
-        
     }
 };
