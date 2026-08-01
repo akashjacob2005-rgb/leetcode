@@ -12,7 +12,6 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-
         stack<TreeNode*>st;
         TreeNode* node = root;
 
@@ -31,6 +30,6 @@ public:
             node = node->right;
         }
         return -1;
-        
+
     }
 };
