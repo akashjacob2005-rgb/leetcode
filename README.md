@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
