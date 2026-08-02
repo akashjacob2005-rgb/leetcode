@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0402-remove-k-digits) |
+| [0796-rotate-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
