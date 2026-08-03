@@ -5,7 +5,7 @@ public:
          return false;
         
         string doubled = s+s;
-
         return doubled.find(goal) != string::npos;
+        
     }
 };
