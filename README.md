@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2418-sort-the-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2418-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2418-sort-the-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
+| [2418-sort-the-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
