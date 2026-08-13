@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2418-sort-the-people) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2418-sort-the-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2418-sort-the-people) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
