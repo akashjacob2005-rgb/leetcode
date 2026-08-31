@@ -8,7 +8,7 @@ public:
             count[nums[i]]++;
         }
 
-        vector<vector<int>>bucket(nums.size()+1);
+        vector<vector<int>> bucket(nums.size()+1);
 
         for(auto& pair:count){
             int num = pair.first;
@@ -16,6 +16,7 @@ public:
 
             bucket[freq].push_back(num);
         }
+
         vector<int>result;
 
         for(int i=bucket.size()-1; i>=0; i--){
@@ -25,10 +26,9 @@ public:
                 if(result.size() == k)
                  return result;
             }
+
         }
         return result;
-
-
         
     }
 };
