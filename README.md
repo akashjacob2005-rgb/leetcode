@@ -409,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
