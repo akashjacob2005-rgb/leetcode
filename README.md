@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0881-boats-to-save-people) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
