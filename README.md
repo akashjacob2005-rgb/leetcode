@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0881-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2418-sort-the-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2418-sort-the-people) |
 ## Array
