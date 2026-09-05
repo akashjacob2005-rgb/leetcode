@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0018-4sum) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0402-remove-k-digits) |
 | [0881-boats-to-save-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0881-boats-to-save-people) |
