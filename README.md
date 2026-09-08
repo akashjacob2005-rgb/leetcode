@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0994-rotting-oranges) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
