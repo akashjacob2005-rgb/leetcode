@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0881-boats-to-save-people) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0706-design-hashmap) |
 | [2418-sort-the-people](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -453,4 +457,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
