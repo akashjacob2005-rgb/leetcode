@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0735-asteroid-collision) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akashjacob2005-rgb/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Linked List
 |  |
