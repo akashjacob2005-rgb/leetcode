@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0796-rotate-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0503-next-greater-element-ii) |
