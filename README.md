@@ -476,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0141-linked-list-cycle) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akashjacob2005-rgb/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
